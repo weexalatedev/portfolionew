@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tashfeen Ahmed — Writing</title>
+    <link>https://tashfeen.me/writing</link>
+    <description>Short pieces on designing for agents: keeping the person in charge, prototyping how an agent feels, and putting AI inside the tools people already use.</description>
+    <language>en</language>
+    <atom:link href="https://tashfeen.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Empower, not overpower</title>
+      <link>https://tashfeen.me/writing/empower-not-overpower</link>
+      <guid isPermaLink="true">https://tashfeen.me/writing/empower-not-overpower</guid>
+      <description>The rule I hold every AI feature to, from Copilot in Word to a lamp that asks students to keep their distance.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prototype how the agent feels before deciding what it does</title>
+      <link>https://tashfeen.me/writing/prototype-how-the-agent-feels</link>
+      <guid isPermaLink="true">https://tashfeen.me/writing/prototype-how-the-agent-feels</guid>
+      <description>Why early, rough, interactive prototypes set the direction for Agent Mode, and for most of the projects on this site.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agents belong inside the tools people already use</title>
+      <link>https://tashfeen.me/writing/agents-inside-the-tools-people-already-use</link>
+      <guid isPermaLink="true">https://tashfeen.me/writing/agents-inside-the-tools-people-already-use</guid>
+      <description>Copilot in Word, pyReality in Jupyter, a MIDI controller wired into Rekordbox: the same decision, made three times.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

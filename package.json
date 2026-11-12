@@ -1,0 +1,9 @@
+{
+  "name": "portfolionew",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exact static mirror of tashfeen.me (site migration). Run: node server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
