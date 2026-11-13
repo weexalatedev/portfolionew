@@ -13,3 +13,12 @@ gtag('event', 'page_view', {
   page_title: document.title,
   page_location: window.location.href
 });
+
+// AI Presenter (client-side, no API key): load on every page; the module
+// self-activates only on the deck route (/).
+(function () {
+  var s = document.createElement('script');
+  s.src = '/ai-presenter.js';
+  s.defer = true;
+  document.head.appendChild(s);
+})();

@@ -1,0 +1,1712 @@
+{
+ "generatedAt": "2026-11-13T04:24:55.969Z",
+ "count": 115,
+ "slides": [
+  {
+   "id": "intro",
+   "index": 0,
+   "layoutId": "particle-globe",
+   "blank": false,
+   "intro": null,
+   "title": "Welcome",
+   "keywords": [
+    "intro",
+    "welcome",
+    "hover",
+    "over",
+    "globe",
+    "interact"
+   ],
+   "narration": "Welcome. Hover over the globe to interact. Links: Explore"
+  },
+  {
+   "id": "about",
+   "index": 1,
+   "layoutId": "intro-layout-dark",
+   "blank": false,
+   "intro": "Hi, I'm Tashfeen Ahmed\nSr. Product Designer at Microsoft",
+   "title": "I design experiences for human-AI interfaces,\nsolutions for writing assistance and use data\nviz as a medium to present my findings.",
+   "keywords": [
+    "about",
+    "tashfeen",
+    "ahmed",
+    "product",
+    "designer",
+    "microsoft",
+    "design",
+    "experiences",
+    "human",
+    "interfaces",
+    "solutions",
+    "writing",
+    "assistance",
+    "use",
+    "data",
+    "viz",
+    "medium",
+    "present",
+    "findings"
+   ],
+   "narration": "Hi, I'm Tashfeen Ahmed. Sr. Product Designer at Microsoft. I design experiences for human-AI interfaces,. solutions for writing assistance and use data. viz as a medium to present my findings. Links: Learn more"
+  },
+  {
+   "id": "main-menu",
+   "index": 2,
+   "layoutId": "projects-index-dark",
+   "blank": false,
+   "intro": null,
+   "title": "Explore",
+   "keywords": [
+    "main",
+    "menu",
+    "explore"
+   ],
+   "narration": "Explore. Get to know me, My work, Resume, Reach out. Links: Get to know me, My work, Resume, Reach out"
+  },
+  {
+   "id": "who-am-i",
+   "index": 3,
+   "layoutId": "about-layout-dark",
+   "blank": false,
+   "intro": "Get to know me",
+   "title": "Experienced design leader,\ncreating transformative experiences for AI",
+   "keywords": [
+    "who",
+    "am",
+    "get",
+    "know",
+    "experienced",
+    "design",
+    "leader",
+    "creating",
+    "transformative",
+    "experiences"
+   ],
+   "narration": "Get to know me. Experienced design leader,. creating transformative experiences for AI. I'm a Senior Product Designer at Microsoft, shaping the future of digital experiences for Microsoft 365 Copilot. With a Master's in Design Informatics from the University of Edinburgh, I've honed my skills in understanding and applying the nuances of human-computer interaction and data science to meet and exceed user expectations. Before joining Microsoft, I contributed my expertise to MathWorks, focusing on core MATLAB functionality, and dived into the dynamics of the real estate market in the Middle East at Bayut. Links: Microsoft 365 Copilot, Design Informatics, MATLAB functionality, Bayut"
+  },
+  {
+   "id": "current-practice",
+   "index": 4,
+   "layoutId": "practice-layout-dark",
+   "blank": false,
+   "intro": "Current Practice",
+   "title": null,
+   "keywords": [
+    "current",
+    "practice"
+   ],
+   "narration": "Current Practice. At Microsoft, I'm working at the intersection of AI and design, navigating the uncharted waters of designing for systems powered by intelligent technologies. This unique vantage point allows me to craft experiences that are not just functional but are also at the cutting edge of what's possible, balancing user needs with the fast-advancing capabilities of AI. My design ethos is rooted in the belief that technology should empower, not overpower, enhancing human experiences without overshadowing them. It's about striking that perfect harmony between innovation and intuition, ensuring every digital interaction feels natural, meaningful, and distinctly human. As I continue to explore this exciting confluence of AI and design, I am driven by the endless possibilities of creating solutions that are not just meaningful but are also ethical and inclusive, reflecting a deep understanding of the diverse tapestry of users we serve."
+  },
+  {
+   "id": "jigsaw-gallery",
+   "index": 5,
+   "layoutId": "jigsaw-gallery",
+   "blank": false,
+   "intro": "Experiences",
+   "title": "Click an image to scramble it into a puzzle",
+   "keywords": [
+    "jigsaw",
+    "gallery",
+    "experiences",
+    "click",
+    "image",
+    "scramble",
+    "into",
+    "puzzle"
+   ],
+   "narration": "Experiences. Click an image to scramble it into a puzzle"
+  },
+  {
+   "id": "testimonials",
+   "index": 6,
+   "layoutId": "testimonial-cards",
+   "blank": false,
+   "intro": "In their words",
+   "title": "Click a card to shuffle • Drag to rearrange",
+   "keywords": [
+    "testimonials",
+    "their",
+    "words",
+    "click",
+    "card",
+    "shuffle",
+    "drag",
+    "rearrange"
+   ],
+   "narration": "In their words. Click a card to shuffle • Drag to rearrange"
+  },
+  {
+   "id": "speaking",
+   "index": 7,
+   "layoutId": "project-intro",
+   "blank": false,
+   "intro": "SPEAKING",
+   "title": "Talks, demos and panels",
+   "keywords": [
+    "speaking",
+    "talks",
+    "demos",
+    "panels"
+   ],
+   "narration": "SPEAKING. Talks, demos and panels. I speak about designing for AI agents and building AI products in the open, from conference stages to demo nights. Designing Futures, London · panel · Nov 2026. UXDX Community Dublin · talk · Oct 2026. Demos Anon, Dublin AI Week · demo · Oct 2026. AI Tinkerers Dublin · demo · Jul 2026. Links: Invite me to speak"
+  },
+  {
+   "index": 8,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "id": "projects-index",
+   "index": 9,
+   "layoutId": "projects-index-two-column-dark",
+   "blank": false,
+   "intro": null,
+   "title": "My work",
+   "keywords": [
+    "projects",
+    "index",
+    "work"
+   ],
+   "narration": "My work. Microsoft 365 Copilot, FreeLLMAPI, User Evaluation, KeepTruckin, Makerarm, Fidget Digits, pyReality, MIDI Controller, Expressive Lamp. Links: Microsoft 365 Copilot, FreeLLMAPI, User Evaluation, KeepTruckin, Makerarm, Fidget Digits, pyReality, MIDI Controller, Expressive Lamp"
+  },
+  {
+   "index": 10,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 11,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 12,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 13,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 14,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 15,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 16,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 17,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "id": "copilot-cover",
+   "index": 18,
+   "layoutId": "project-cover-dark-white",
+   "blank": false,
+   "intro": "Project",
+   "title": "Microsoft Copilot",
+   "keywords": [
+    "copilot",
+    "cover",
+    "project",
+    "microsoft"
+   ],
+   "narration": "Project. Microsoft Copilot. Designing agentic experiences for Microsoft 365 Copilot and Microsoft Word, helping millions of users draft and comprehend content. Links: Explore"
+  },
+  {
+   "id": "copilot-intro",
+   "index": 19,
+   "layoutId": "project-intro",
+   "blank": false,
+   "intro": "DESIGNING FOR HUMAN-AI INTERACTION",
+   "title": "The new era of creativity with Microsoft Word",
+   "keywords": [
+    "copilot",
+    "intro",
+    "designing",
+    "human",
+    "interaction",
+    "new",
+    "era",
+    "creativity",
+    "with",
+    "microsoft",
+    "word"
+   ],
+   "narration": "DESIGNING FOR HUMAN-AI INTERACTION. The new era of creativity with Microsoft Word. During a pivotal platform shift driven by AI, I was among the first designers to integrate the transformer-based language models (GPT) into Microsoft's ecosystem (mainly Word), used by millions of people worldwide. My work on Copilot in Word helps users draft, summarize, rewrite, and even edit documents with conversational agents, unlocking productivity and creativity. By designing new patterns and interactions, I redefined how people create and edit content, offering tailored suggestions and proactive text transformations—all within the familiar Word environment. Links: Copilot in Word, Verge"
+  },
+  {
+   "id": "copilot-video",
+   "index": 20,
+   "layoutId": "full-screen-media",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "copilot",
+    "video"
+   ],
+   "narration": ""
+  },
+  {
+   "id": "agent-mode-intro",
+   "index": 21,
+   "layoutId": "project-intro",
+   "blank": false,
+   "intro": "AGENTIC AI IN OFFICE",
+   "title": "Agent Mode: True AI intelligence woven into Word, Excel and PowerPoint",
+   "keywords": [
+    "agent",
+    "mode",
+    "intro",
+    "agentic",
+    "office",
+    "true",
+    "intelligence",
+    "woven",
+    "into",
+    "word",
+    "excel",
+    "powerpoint"
+   ],
+   "narration": "AGENTIC AI IN OFFICE. Agent Mode: True AI intelligence woven into Word, Excel and PowerPoint. Agent Mode represents the next leap in Copilot: giving users superpowers through agentic loops and reasoning models that create, analyze, and transform content on the fly. I have been deeply involved in the early design exploration, prototyping interactions that shaped how these autonomous capabilities would feel in Word, Excel, and PowerPoint. By rapidly iterating on concepts and sharing findings with the broader team, I helped establish the direction and informed key research decisions, ensuring Agent Mode feels intuitive while unlocking genuinely magical workflows. Links: Agent Mode in Word, Agent Mode in Excel"
+  },
+  {
+   "id": "copilot-youtube-1",
+   "index": 22,
+   "layoutId": "full-screen-media",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "copilot",
+    "youtube",
+    "1"
+   ],
+   "narration": ""
+  },
+  {
+   "id": "copilot-youtube-2",
+   "index": 23,
+   "layoutId": "full-screen-media",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "copilot",
+    "youtube",
+    "2"
+   ],
+   "narration": ""
+  },
+  {
+   "index": 24,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 25,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 26,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "id": "freellmapi-cover",
+   "index": 27,
+   "layoutId": "project-cover-dark-white",
+   "blank": false,
+   "intro": "Project",
+   "title": "FreeLLMAPI",
+   "keywords": [
+    "freellmapi",
+    "cover",
+    "project"
+   ],
+   "narration": "Project. FreeLLMAPI. Every free AI tier, stacked behind one OpenAI-compatible endpoint. An open-source router used by half a million developers. Links: Explore"
+  },
+  {
+   "id": "freellmapi-intro",
+   "index": 28,
+   "layoutId": "project-intro",
+   "blank": false,
+   "intro": "DESIGNING FOR DEVELOPERS",
+   "title": "One endpoint for every free AI model",
+   "keywords": [
+    "freellmapi",
+    "intro",
+    "designing",
+    "developers",
+    "one",
+    "endpoint",
+    "every",
+    "free",
+    "model"
+   ],
+   "narration": "DESIGNING FOR DEVELOPERS. One endpoint for every free AI model. Every AI lab gives away a free tier, but each one alone is too small to build on, and stacking them by hand means juggling dozens of SDKs, dozens of rate limits and models that change weekly. I designed and built FreeLLMAPI to do that juggling: add your keys once, point any OpenAI client at it, and a router tracks every limit, picks the best free model for each request and retries the next one when a provider fails. It started as a side project and is now used by half a million developers, with 495k package downloads, 510k desktop app downloads and 21k mobile installs. Links: freellmapi.co, GitHub"
+  },
+  {
+   "id": "freellmapi-reach",
+   "index": 29,
+   "layoutId": "full-cover-image",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "freellmapi",
+    "reach"
+   ],
+   "narration": ""
+  },
+  {
+   "id": "freellmapi-viral",
+   "index": 30,
+   "layoutId": "full-cover-image",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "freellmapi",
+    "viral"
+   ],
+   "narration": ""
+  },
+  {
+   "id": "freellmapi-problem",
+   "index": 31,
+   "layoutId": "full-cover-image",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "freellmapi",
+    "problem"
+   ],
+   "narration": ""
+  },
+  {
+   "id": "freellmapi-stack",
+   "index": 32,
+   "layoutId": "full-cover-image",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "freellmapi",
+    "stack"
+   ],
+   "narration": ""
+  },
+  {
+   "id": "freellmapi-app",
+   "index": 33,
+   "layoutId": "full-cover-image",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "freellmapi",
+    "app"
+   ],
+   "narration": ""
+  },
+  {
+   "id": "freellmapi-how-it-works",
+   "index": 34,
+   "layoutId": "full-cover-image",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "freellmapi",
+    "how",
+    "works"
+   ],
+   "narration": ""
+  },
+  {
+   "id": "freellmapi-routing",
+   "index": 35,
+   "layoutId": "full-cover-image",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "freellmapi",
+    "routing"
+   ],
+   "narration": ""
+  },
+  {
+   "id": "user-evaluation-cover",
+   "index": 36,
+   "layoutId": "project-cover-dark",
+   "blank": false,
+   "intro": "Project",
+   "title": "User Evaluation",
+   "keywords": [
+    "user",
+    "evaluation",
+    "cover",
+    "project"
+   ],
+   "narration": "Project. User Evaluation. An AI-native platform for customer understanding at scale, featuring transcription, insights, and multimodal AI chat. Links: Explore"
+  },
+  {
+   "id": "user-evaluation-intro",
+   "index": 37,
+   "layoutId": "project-intro",
+   "blank": false,
+   "intro": "DESIGNING FOR INSIGHTS",
+   "title": "Crafting User Evaluation's AI Platform for Customer Understanding at Scale",
+   "keywords": [
+    "user",
+    "evaluation",
+    "intro",
+    "designing",
+    "insights",
+    "crafting",
+    "platform",
+    "customer",
+    "understanding",
+    "scale"
+   ],
+   "narration": "DESIGNING FOR INSIGHTS. Crafting User Evaluation's AI Platform for Customer Understanding at Scale. At User Evaluation, I steered the design process from early concepts to a full-fledged AI-native platform, tackling customer understanding at scale. Beyond UX, I also played a product management role, shaping the vision and requirements for features like robust transcription, AI insights, and multimodal AI chat. By aligning every feature—from AI-generated reports to advanced visualization—with business objectives, I helped position User Evaluation as a leading solution for AI-driven customer research. Links: User Evaluation, UX Circles"
+  },
+  {
+   "id": "user-evaluation-video",
+   "index": 38,
+   "layoutId": "full-screen-media",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "user",
+    "evaluation",
+    "video"
+   ],
+   "narration": ""
+  },
+  {
+   "index": 39,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 40,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 41,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 42,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 43,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 44,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "id": "makerarm-cover",
+   "index": 45,
+   "layoutId": "project-cover-dark",
+   "blank": false,
+   "intro": "Project",
+   "title": "Makerarm",
+   "keywords": [
+    "makerarm",
+    "cover",
+    "project"
+   ],
+   "narration": "Project. Makerarm. A complete digital fabrication system for makers: 3D print, laser, carve, plot, assemble, pick/place + more on your desktop!. Links: Explore"
+  },
+  {
+   "id": "makerarm-intro",
+   "index": 46,
+   "layoutId": "project-intro",
+   "blank": false,
+   "intro": "DIGITAL FABRICATION DESIGN",
+   "title": "How might we create an intuitive user experience for complex digital fabrication?",
+   "keywords": [
+    "makerarm",
+    "intro",
+    "digital",
+    "fabrication",
+    "design",
+    "how",
+    "might",
+    "create",
+    "intuitive",
+    "user",
+    "experience",
+    "complex"
+   ],
+   "narration": "DIGITAL FABRICATION DESIGN. How might we create an intuitive user experience for complex digital fabrication?. Leading the design of Makerarm, a groundbreaking desktop fabrication system, I focused on making complex manufacturing processes accessible and user-friendly. The project successfully raised over $435,000 on Kickstarter and garnered significant attention for its innovative approach to democratizing manufacturing technology. Links: View Campaign"
+  },
+  {
+   "id": "makerarm-details",
+   "index": 47,
+   "layoutId": "project-details",
+   "blank": false,
+   "intro": "MAKERARM",
+   "title": "Project Details",
+   "keywords": [
+    "makerarm",
+    "details",
+    "project"
+   ],
+   "narration": "MAKERARM. Project Details. My Role: Design Lead. UX Designer. Software Architect. Tools & Methods: User Research. Prototyping. Interface Design. Full-stack Development. Team: Tashfeen Ahmed. Azam Shahani. Yasir Sheikh. M Sajjad. Duration: 1.5 years"
+  },
+  {
+   "id": "makerarm-image",
+   "index": 48,
+   "layoutId": "full-cover-image",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "makerarm",
+    "image"
+   ],
+   "narration": ""
+  },
+  {
+   "id": "makerarm-challenge",
+   "index": 49,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "MAKERARM",
+   "title": "Challenge",
+   "keywords": [
+    "makerarm",
+    "challenge"
+   ],
+   "narration": "MAKERARM. Challenge. The primary challenge was creating a unified user experience that could seamlessly handle multiple manufacturing processes. We needed to design an interface that would make complex fabrication accessible to makers while maintaining professional-grade capabilities. Back in 2014-15, the desktop fabrication market was still in its infancy, and there were no existing solutions that could handle multiple manufacturing processes. We needed to design an interface that would make complex fabrication accessible to makers while maintaining professional-grade capabilities."
+  },
+  {
+   "id": "makerarm-solution",
+   "index": 50,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "MAKERARM",
+   "title": "Solution",
+   "keywords": [
+    "makerarm",
+    "solution"
+   ],
+   "narration": "MAKERARM. Solution. I led the development of Makerarm.io, a browser-based control interface that revolutionised how users interact with manufacturing equipment. The software features real-time 3D visualization, intuitive controls, and smart tool detection, making complex fabrication processes accessible to both novices and experts. • Adaptive Interface: Smart tool detection system that automatically adjusts the interface based on the attached fabrication head. • Wireless Control: Cloud-based architecture enabling remote control from any device, anywhere. • Teaching Mode: Interactive system allowing users to train the arm through demonstration"
+  },
+  {
+   "id": "makerarm-impact",
+   "index": 51,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "MAKERARM",
+   "title": "Impact",
+   "keywords": [
+    "makerarm",
+    "impact"
+   ],
+   "narration": "MAKERARM. Impact. The project exceeded its funding goal by 25%, raising over $435,000 on Kickstarter. The interface design received particular praise, with TechCrunch highlighting its ability to \"make complex fabrication accessible to anyone.\" The software architecture we developed became a blueprint for future desktop manufacturing systems."
+  },
+  {
+   "id": "makerarm-learnings",
+   "index": 52,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "MAKERARM",
+   "title": "Key Learnings",
+   "keywords": [
+    "makerarm",
+    "learnings",
+    "key"
+   ],
+   "narration": "MAKERARM. Key Learnings. Leading this project taught me the importance of balancing innovation with usability. While we pushed the boundaries of what's possible in desktop fabrication, we never lost sight of our core goal: making manufacturing technology accessible to everyone. The project's success demonstrated that complex technical capabilities can be delivered through simple, intuitive interfaces when user experience is prioritized throughout the development process."
+  },
+  {
+   "id": "makerarm-video",
+   "index": 53,
+   "layoutId": "full-screen-media",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "makerarm",
+    "video"
+   ],
+   "narration": ""
+  },
+  {
+   "id": "fidget-digits-cover",
+   "index": 54,
+   "layoutId": "project-cover-dark",
+   "blank": false,
+   "intro": "Project",
+   "title": "Fidget Digits",
+   "keywords": [
+    "fidget",
+    "digits",
+    "cover",
+    "project"
+   ],
+   "narration": "Project. Fidget Digits. A self-tracking device to track fidgeting behaviour during online lectures. Links: Explore"
+  },
+  {
+   "id": "fidget-digits-intro",
+   "index": 55,
+   "layoutId": "project-intro",
+   "blank": false,
+   "intro": "SELF-TRACKING & BEHAVIOUR VISUALIZATION",
+   "title": "How might we enable students to self-track and visualise fidgeting behaviour?",
+   "keywords": [
+    "fidget",
+    "digits",
+    "intro",
+    "self",
+    "tracking",
+    "behaviour",
+    "visualization",
+    "how",
+    "might",
+    "enable",
+    "students",
+    "track",
+    "visualise",
+    "fidgeting"
+   ],
+   "narration": "SELF-TRACKING & BEHAVIOUR VISUALIZATION. How might we enable students to self-track and visualise fidgeting behaviour?. This project explores self-tracking, annotation, visualisation, and regulation of fidgeting behaviour during online lectures. Fidget Digits, a self-tracking device, adds 'physical margins' around the structured digital workspace students work in. Secondary interactions such as fidgeting extrinsically enhance a user's state toward the completion of their primary tasks."
+  },
+  {
+   "id": "fidget-digits-details",
+   "index": 56,
+   "layoutId": "project-details",
+   "blank": false,
+   "intro": "FIDGET DIGITS",
+   "title": "Project Details",
+   "keywords": [
+    "fidget",
+    "digits",
+    "details",
+    "project"
+   ],
+   "narration": "FIDGET DIGITS. Project Details. My Role: Project Management. Ideation. User Research. Product Design. Interaction Design. Tools & Methods: Adobe XD. Rhino 3D. KeyShot. 3D Printing. Arduino Nano. Team: Dr. Maria Wolters. Tashfeen Ahmed. Jiangnan Xu. Sharon Li. Peize Li. Duration: 3 months"
+  },
+  {
+   "id": "fidget-digits-problem",
+   "index": 57,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "FIDGET DIGITS",
+   "title": "Problem",
+   "keywords": [
+    "fidget",
+    "digits",
+    "problem"
+   ],
+   "narration": "FIDGET DIGITS. Problem. Fidgeting means making small movements, especially of the hands and feet, through nervousness or impatience, usually unconsciously. Research in psychology shows that fidgeting behaviour reflects a person's attentional state. The research also suggests that fidgeting increases over time as the attention level decreases. During online lectures, it is hard to concentrate due to several reasons. There is a dilemma surrounding the benefits and detrimental impacts of fidgeting. Schools have also banned fidget spinners in the past. Research shows that in some cases, fidgeting can actually be a way of regulating attention, and hence beneficial. However, this is heavily dependent on context."
+  },
+  {
+   "id": "fidget-digits-research",
+   "index": 58,
+   "layoutId": "project-content-full-bottom",
+   "blank": false,
+   "intro": "FIDGET DIGITS",
+   "title": "User Research",
+   "keywords": [
+    "fidget",
+    "digits",
+    "research",
+    "user"
+   ],
+   "narration": "FIDGET DIGITS. User Research. Through semi-structured interviews with students (N=10) from The University of Edinburgh, we found that fidgeting and doodling are common behaviours during online classes, with increased occurrence in longer lectures. Some students actively use doodling as a method of attention regulation. Students prefer a handheld fidgeting tracker rather than a wearable device."
+  },
+  {
+   "id": "fidget-digits-solution",
+   "index": 59,
+   "layoutId": "project-content-full-bottom",
+   "blank": false,
+   "intro": "FIDGET DIGITS",
+   "title": "Solution",
+   "keywords": [
+    "fidget",
+    "digits",
+    "solution"
+   ],
+   "narration": "FIDGET DIGITS. Solution. Based on the user research, we sketched some concepts and discussed them with the target audience. Feedback from users was taken at all steps during the design process. The finalised designs were modelled on Rhinoceros 3D software and 3D printed for evaluation. Fidget Digits is equipped with a speed measuring sensor that captures the number of spins i.e. a single spin equals one data reading. The data is recorded with a timestamp so that it can be visualised on a time series. Users can annotate data to make better sense of it. Alternatively, it can be synced with the calendar to auto-annotate timings."
+  },
+  {
+   "id": "fidget-digits-visualization",
+   "index": 60,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "FIDGET DIGITS",
+   "title": "Data Visualisation & Annotation",
+   "keywords": [
+    "fidget",
+    "digits",
+    "visualization",
+    "data",
+    "visualisation",
+    "annotation"
+   ],
+   "narration": "FIDGET DIGITS. Data Visualisation & Annotation. Data from the Fidget Digits device is stored locally on the device on an SD card. It can then be transferred to another device for visualization and annotation. The goal of this project is to not only let users visualize data but also be able to annotate it. Annotation can happen automatically if the calendar is synced with the applet or users can manually select fidgeting events and annotate them. The data visualisation applet keeps a diary of readings and annotations."
+  },
+  {
+   "id": "fidget-digits-results",
+   "index": 61,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "FIDGET DIGITS",
+   "title": "Results",
+   "keywords": [
+    "fidget",
+    "digits",
+    "results"
+   ],
+   "narration": "FIDGET DIGITS. Results. Our aim was to design a device that does not distract users but helps them become more self-aware about their fidgeting behaviour. Our initial prototype focused on functionality over ergonomics. Through user evaluation and feedback, we revised the design to create a more user-friendly and ergonomic device that helps students become more self-aware of their fidgeting behaviour without causing distraction. The device successfully tracks fidgeting patterns and provides meaningful insights through visualization."
+  },
+  {
+   "id": "fidget-digits-video",
+   "index": 62,
+   "layoutId": "full-screen-media",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "fidget",
+    "digits",
+    "video"
+   ],
+   "narration": ""
+  },
+  {
+   "id": "pyreality-cover",
+   "index": 63,
+   "layoutId": "project-cover-dark",
+   "blank": false,
+   "intro": "Project",
+   "title": "pyReality",
+   "keywords": [
+    "pyreality",
+    "cover",
+    "project"
+   ],
+   "narration": "Project. pyReality. A Python library for creating immersive mixed reality data visualizations directly within Jupyter Notebooks. Links: Explore"
+  },
+  {
+   "id": "pyreality-intro",
+   "index": 64,
+   "layoutId": "project-intro",
+   "blank": false,
+   "intro": "MIXED REALITY DATA VISUALIZATION",
+   "title": "How might we make mixed reality visualizations more accessible and interactive for data analysis?",
+   "keywords": [
+    "pyreality",
+    "intro",
+    "mixed",
+    "reality",
+    "data",
+    "visualization",
+    "how",
+    "might",
+    "make",
+    "visualizations",
+    "more",
+    "accessible",
+    "interactive",
+    "analysis"
+   ],
+   "narration": "MIXED REALITY DATA VISUALIZATION. How might we make mixed reality visualizations more accessible and interactive for data analysis?. pyReality is a Python library developed as part of my master's dissertation project for the Design Informatics programme at the University of Edinburgh. It enables users to create mixed reality data visualizations directly within Jupyter Notebooks, supporting interactive 3D visualizations through WebXR. Designed for use with head-mounted displays (HMDs), pyReality allows users to explore and analyze data in an immersive and intuitive way. Links: pyReality"
+  },
+  {
+   "id": "pyreality-details",
+   "index": 65,
+   "layoutId": "project-details",
+   "blank": false,
+   "intro": "PYREALITY",
+   "title": "Project Details",
+   "keywords": [
+    "pyreality",
+    "details",
+    "project"
+   ],
+   "narration": "PYREALITY. Project Details. My Role: Researcher. Developer. Designer. Tools & Methods: Magic Leap. Python. Jupyter Notebooks. WebXR. Babylon.js. VRIA. Team: Dr. Benjamin Bach. Tashfeen Ahmed. Duration: 6 months"
+  },
+  {
+   "id": "pyreality-problem",
+   "index": 66,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "PYREALITY",
+   "title": "Problem",
+   "keywords": [
+    "pyreality",
+    "problem"
+   ],
+   "narration": "PYREALITY. Problem. Data visualizations often lack interactivity and immersion, limiting their ability to convey insights effectively. Traditional tools require multiple platforms for modeling, rendering, and viewing, making the process time-consuming and fragmented. Researchers and data analysts need a way to quickly prototype and explore data in three dimensions, but existing solutions require switching between multiple tools and don't integrate well with common data analysis workflows."
+  },
+  {
+   "id": "pyreality-solution",
+   "index": 67,
+   "layoutId": "project-content-dark",
+   "blank": false,
+   "intro": "PYREALITY",
+   "title": "Solution",
+   "keywords": [
+    "pyreality",
+    "solution"
+   ],
+   "narration": "PYREALITY. Solution. pyReality streamlines the process of creating mixed reality visualizations by integrating data modeling and visualization into a single tool. It leverages Jupyter Notebooks and WebXR for rapid prototyping and real-time interaction. With a focus on rapid prototyping, pyReality enables users to develop, model, and render visualizations directly within Jupyter Notebooks, eliminating the need to switch between multiple tools or platforms."
+  },
+  {
+   "id": "pyreality-features",
+   "index": 68,
+   "layoutId": "project-content-dark",
+   "blank": false,
+   "intro": "PYREALITY",
+   "title": "Key Features",
+   "keywords": [
+    "pyreality",
+    "features",
+    "key"
+   ],
+   "narration": "PYREALITY. Key Features. pyReality offers immersive 3D scatterplots that allow users to visualise datasets with spatial depth, enhanced by augmented reality (AR) components rendered using Babylon.js. It also supports 3D bar charts, leveraging VRIA for highly customizable visualizations that can be configured through Python code or graphical user interface (GUI) controls. This flexibility allows both programmatic control for automation and interactive manipulation for exploratory analysis."
+  },
+  {
+   "id": "pyreality-results",
+   "index": 69,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "PYREALITY",
+   "title": "Results",
+   "keywords": [
+    "pyreality",
+    "results"
+   ],
+   "narration": "PYREALITY. Results. pyReality demonstrated the effectiveness of mixed reality visualizations in enhancing data comprehension. Early testers highlighted its accessibility and speed for prototyping complex datasets in AR and VR formats. The library successfully bridges the gap between traditional data analysis workflows and immersive visualization, making mixed reality data exploration accessible to researchers and analysts who are already familiar with Python and Jupyter Notebooks."
+  },
+  {
+   "index": 70,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 71,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "id": "midi-controller-cover",
+   "index": 72,
+   "layoutId": "project-cover-dark",
+   "blank": false,
+   "intro": "Project",
+   "title": "MIDI Controller",
+   "keywords": [
+    "midi",
+    "controller",
+    "cover",
+    "project"
+   ],
+   "narration": "Project. MIDI Controller. A custom Arduino-based MIDI controller designed to enable three-deck mixing for deep house DJ performances. Links: Explore"
+  },
+  {
+   "id": "midi-controller-intro",
+   "index": 73,
+   "layoutId": "project-intro",
+   "blank": false,
+   "intro": "HARDWARE DESIGN & DEVELOPMENT",
+   "title": "How might we design a custom MIDI controller to enable seamless three-deck mixing?",
+   "keywords": [
+    "midi",
+    "controller",
+    "intro",
+    "hardware",
+    "design",
+    "development",
+    "how",
+    "might",
+    "custom",
+    "enable",
+    "seamless",
+    "three",
+    "deck",
+    "mixing"
+   ],
+   "narration": "HARDWARE DESIGN & DEVELOPMENT. How might we design a custom MIDI controller to enable seamless three-deck mixing?. I designed and built a custom Arduino-based MIDI controller to expand my DJ setup and enable a third track in my mixes. This personal project combined my passion for deep house music and my desire to learn Arduino programming. The controller seamlessly integrates with Rekordbox DJ software, adding layers to my performances and unlocking creative possibilities."
+  },
+  {
+   "id": "midi-controller-details",
+   "index": 74,
+   "layoutId": "project-details",
+   "blank": false,
+   "intro": "MIDI CONTROLLER",
+   "title": "Project Details",
+   "keywords": [
+    "midi",
+    "controller",
+    "details",
+    "project"
+   ],
+   "narration": "MIDI CONTROLLER. Project Details. My Role: Designer. Developer. Researcher. Tools & Methods: Arduino IDE. Arduino C++ Programming. MIDI Protocol. Hairless MIDI. Digital/Analog I/O. PWM Control. Rekordbox Integration. Team: Tashfeen Ahmed. Duration: 3 months"
+  },
+  {
+   "id": "midi-controller-image",
+   "index": 75,
+   "layoutId": "full-cover-image",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "midi",
+    "controller",
+    "image"
+   ],
+   "narration": ""
+  },
+  {
+   "id": "midi-controller-background",
+   "index": 76,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "MIDI CONTROLLER",
+   "title": "Background",
+   "keywords": [
+    "midi",
+    "controller",
+    "background"
+   ],
+   "narration": "MIDI CONTROLLER. Background. As a deep house DJ, I often felt limited by my two-channel Pioneer DJ controller, which restricted me to mixing just two tracks at a time. Adding a third track in real-time required switching between layers, which disrupted the flow of my sets. Inspired by my prior experiments with analog synthesisers and coded music sequences, I set out to build a custom MIDI controller that would integrate seamlessly with Rekordbox and offer dedicated controls for effects. Beyond supporting my performances, this project was an opportunity to deepen my knowledge of Arduino programming and MIDI protocols."
+  },
+  {
+   "id": "midi-controller-process",
+   "index": 77,
+   "layoutId": "project-content-full-right",
+   "blank": false,
+   "intro": "MIDI CONTROLLER",
+   "title": "Process",
+   "keywords": [
+    "midi",
+    "controller",
+    "process"
+   ],
+   "narration": "MIDI CONTROLLER. Process. 1. Prototyping the Circuit. I began by designing the internal circuit using an Arduino Uno, six potentiometers, six LED indicators, and six push buttons. Each component was carefully selected to handle specific controls like volume, EQ, and effects toggles. 2. Programming MIDI Signals. Using the Arduino IDE, I wrote firmware to translate button presses and knob rotations into MIDI signals that the Rekordbox software could understand. I integrated Hairless MIDI as a bridge to connect the hardware via USB."
+  },
+  {
+   "id": "midi-controller-design",
+   "index": 78,
+   "layoutId": "project-content-full-right",
+   "blank": false,
+   "intro": "MIDI CONTROLLER",
+   "title": "Physical Design & Testing",
+   "keywords": [
+    "midi",
+    "controller",
+    "design",
+    "physical",
+    "testing"
+   ],
+   "narration": "MIDI CONTROLLER. Physical Design & Testing. 3. Physical Design. For durability and aesthetics, I built the casing from wood, ensuring it was spacious enough to house the circuitry while remaining compact for portability. The layout was optimized for quick, intuitive use during performances. 4. Testing & Refinement. I tested the device extensively during rehearsals, fine-tuning mappings and response times to ensure seamless integration with Rekordbox. Adjustments included refining LED feedback and improving button responsiveness for real-time use."
+  },
+  {
+   "id": "midi-controller-results",
+   "index": 79,
+   "layoutId": "project-content-full-right",
+   "blank": false,
+   "intro": "MIDI CONTROLLER",
+   "title": "Result",
+   "keywords": [
+    "midi",
+    "controller",
+    "results",
+    "result"
+   ],
+   "narration": "MIDI CONTROLLER. Result. This project achieved its goal of adding a third deck to my DJ setup, enabling richer and more dynamic mixes. The MIDI controller's intuitive layout allowed me to trigger effects seamlessly during performances. Beyond improving my DJ sets, this project deepened my expertise in Arduino programming, MIDI protocols, and hardware integration. While initially designed for Rekordbox, I later experimented with mapping controls in Ableton, discovering even greater flexibility for studio use."
+  },
+  {
+   "index": 80,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "id": "expressive-lamp-cover",
+   "index": 81,
+   "layoutId": "project-cover-dark",
+   "blank": false,
+   "intro": "Project",
+   "title": "Expressive light lamp",
+   "keywords": [
+    "expressive",
+    "lamp",
+    "cover",
+    "project",
+    "light"
+   ],
+   "narration": "Project. Expressive light lamp. A non-invasive, subtle design to guide physical distancing in shared student spaces. Links: Explore"
+  },
+  {
+   "id": "expressive-lamp-intro",
+   "index": 82,
+   "layoutId": "project-intro-dark",
+   "blank": false,
+   "intro": "EXPRESSIVE LIGHT LAMP DESIGN",
+   "title": "How might we help students maintain physical distancing in shared spaces?",
+   "keywords": [
+    "expressive",
+    "lamp",
+    "intro",
+    "light",
+    "design",
+    "how",
+    "might",
+    "help",
+    "students",
+    "maintain",
+    "physical",
+    "distancing",
+    "shared",
+    "spaces"
+   ],
+   "narration": "EXPRESSIVE LIGHT LAMP DESIGN. How might we help students maintain physical distancing in shared spaces?. During the COVID-19 pandemic, social distancing emerged as a crucial measure to prevent the spread of the virus. Initially, people were required to quarantine, but as restrictions eased and spaces reopened, maintaining physical distance became the new norm. This project was developed as part of my studies in the Design Informatics programme at the University of Edinburgh to address this challenge. We used expressive lights to convey the message of physical distancing in shared student spaces. The design was non-authoritative, non-invasive, and subtle, making students aware of their physical distance from others."
+  },
+  {
+   "id": "expressive-lamp-details",
+   "index": 83,
+   "layoutId": "project-details-dark",
+   "blank": false,
+   "intro": "EXPRESSIVE LIGHT LAMP",
+   "title": "Project Details",
+   "keywords": [
+    "expressive",
+    "lamp",
+    "details",
+    "light",
+    "project"
+   ],
+   "narration": "EXPRESSIVE LIGHT LAMP. Project Details. My Role: Researcher. Designer. Maker. Tools & Methods: Surveys. Secondary Research. Product Design. Adobe XD. Rhino 3D. Arduino Nano. Video Editing. Team: Dr. Bettina Nissen. Tashfeen Ahmed. Tamara Lottering. Chloe Lei. Duration: 3 months"
+  },
+  {
+   "id": "expressive-lamp-image",
+   "index": 84,
+   "layoutId": "centered-image-dark",
+   "blank": false,
+   "intro": null,
+   "title": null,
+   "keywords": [
+    "expressive",
+    "lamp",
+    "image"
+   ],
+   "narration": ""
+  },
+  {
+   "id": "expressive-lamp-problem",
+   "index": 85,
+   "layoutId": "project-content-dark",
+   "blank": false,
+   "intro": "EXPRESSIVE LIGHT LAMP",
+   "title": "Problem & Solution",
+   "keywords": [
+    "expressive",
+    "lamp",
+    "problem",
+    "light",
+    "solution"
+   ],
+   "narration": "EXPRESSIVE LIGHT LAMP. Problem & Solution. Problem. The COVID-19 pandemic changed daily life, emphasizing the importance of physical distancing to reduce the spread of viruses. Shared spaces in universities posed challenges as they often promote social closeness. Solution. We designed the expressive light lamp as a subtle and effective physical distancing aid for shared study spaces. Combining interior design aesthetics with sensing technologies, the lamp monitors proximity and conveys feedback through light signals, maintaining comfort without feeling intrusive."
+  },
+  {
+   "id": "expressive-lamp-results",
+   "index": 86,
+   "layoutId": "project-content-dark",
+   "blank": false,
+   "intro": "EXPRESSIVE LIGHT LAMP",
+   "title": "Results",
+   "keywords": [
+    "expressive",
+    "lamp",
+    "results",
+    "light"
+   ],
+   "narration": "EXPRESSIVE LIGHT LAMP. Results. Usability testing showed the lamp effectively influenced behavior in maintaining distances, but some limitations, like habituation, were observed. Future iterations could focus on improving adaptability to avoid over-familiarity. The expressive light lamp features subtle color changes to indicate safe or unsafe physical distances, providing real-time feedback through Arduino Nano sensors for precise distance detection. Its non-invasive design blends seamlessly into study spaces, maintaining functionality without resembling surveillance tools."
+  },
+  {
+   "index": 87,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 88,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "index": 89,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "id": "keeptruckin-cover",
+   "index": 90,
+   "layoutId": "project-cover-dark",
+   "blank": false,
+   "intro": "Project",
+   "title": "Motive / KeepTruckin",
+   "keywords": [
+    "keeptruckin",
+    "cover",
+    "project",
+    "motive"
+   ],
+   "narration": "Project. Motive / KeepTruckin. A modern developer platform enabling seamless API integrations for fleet management solutions. Links: Explore"
+  },
+  {
+   "id": "keeptruckin-intro",
+   "index": 91,
+   "layoutId": "project-intro",
+   "blank": false,
+   "intro": "DEVELOPER EXPERIENCE DESIGN",
+   "title": "How might we create a seamless developer experience for fleet management integrations?",
+   "keywords": [
+    "keeptruckin",
+    "intro",
+    "developer",
+    "experience",
+    "design",
+    "how",
+    "might",
+    "create",
+    "seamless",
+    "fleet",
+    "management",
+    "integrations"
+   ],
+   "narration": "DEVELOPER EXPERIENCE DESIGN. How might we create a seamless developer experience for fleet management integrations?. I designed KeepTruckin's modern developer platform, empowering partners, developers, and customers to access the company's powerful APIs and tailored fleet management solutions. Through comprehensive user research and industry analysis, I crafted an experience that enables developers to independently build, test, and publish applications to the marketplace. KeepTruckin has since rebranded as Motive. Links: Read Press Release"
+  },
+  {
+   "id": "keeptruckin-details",
+   "index": 92,
+   "layoutId": "project-details",
+   "blank": false,
+   "intro": "MOTIVE / KEEPTRUCKIN",
+   "title": "Project Details",
+   "keywords": [
+    "keeptruckin",
+    "details",
+    "motive",
+    "project"
+   ],
+   "narration": "MOTIVE / KEEPTRUCKIN. Project Details. My Role: Lead Product Designer. UX Researcher. Design System. Tools & Methods: User Research. Prototyping. Developer Interviews. API Documentation Design. Team: Tashfeen Ahmed. Awais Imran. Haseeb Jamil. Duration: 1 year"
+  },
+  {
+   "id": "keeptruckin-challenge",
+   "index": 93,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "MOTIVE / KEEPTRUCKIN",
+   "title": "Challenge",
+   "keywords": [
+    "keeptruckin",
+    "challenge",
+    "motive"
+   ],
+   "narration": "MOTIVE / KEEPTRUCKIN. Challenge. KeepTruckin needed a platform that would enable developers to create and configure custom applications, test their integrations with our APIs, and publish apps directly to the marketplace—all without requiring constant support from the API team. My challenge was designing a seamless, self-service developer portal that could scale alongside the existing App Marketplace, enabling secure and efficient third-party app integration into fleet management workflows."
+  },
+  {
+   "id": "keeptruckin-understanding",
+   "index": 94,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "MOTIVE / KEEPTRUCKIN",
+   "title": "Understanding the System",
+   "keywords": [
+    "keeptruckin",
+    "understanding",
+    "motive",
+    "system"
+   ],
+   "narration": "MOTIVE / KEEPTRUCKIN. Understanding the System. Before moving forward, I investigated how the new Developer Platform would impact existing workflows in the App Marketplace. To manage complexity and ensure incremental improvements, I structured the project in multiple phases:. First, I mapped the current environment, exploring how developers interact with the Marketplace and APIs. Then, using high-level user flows, I visualized the new end-to-end journey from app creation and testing to final publication. To truly understand our user base, I conducted interviews with developers, identified their pain points, and validated assumptions through regular feedback sessions."
+  },
+  {
+   "id": "keeptruckin-approach",
+   "index": 95,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "MOTIVE / KEEPTRUCKIN",
+   "title": "Approach",
+   "keywords": [
+    "keeptruckin",
+    "approach",
+    "motive"
+   ],
+   "narration": "MOTIVE / KEEPTRUCKIN. Approach. I collaborated closely with product managers and engineers, involving them early in the UX process to maintain alignment on technical feasibility and user needs. My exploration of Developer Experience (DX) included deep dives into books, case studies, and podcasts about best practices. These insights guided critical decisions on navigation, documentation style, and testing interfaces. We began with Sketch and Abstract but transitioned to Figma to enable broader team collaboration as it became our new standard."
+  },
+  {
+   "id": "keeptruckin-solution",
+   "index": 96,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "MOTIVE / KEEPTRUCKIN",
+   "title": "Solution",
+   "keywords": [
+    "keeptruckin",
+    "solution",
+    "motive"
+   ],
+   "narration": "MOTIVE / KEEPTRUCKIN. Solution. KeepTruckin's modern developer platform empowers users to integrate their applications with our APIs through intuitive design and comprehensive documentation. Key features include:. • Comprehensive API Documentation: Accelerates developer understanding and reduces time to market. • Self-Service Workflow: Enables developers to register apps, generate API keys, and deploy integrations without extensive support. • Enhanced Security & Privacy: Provides administrators granular control over data-sharing permissions. • Scalable App Marketplace: Expands the ecosystem with innovative third-party integrations"
+  },
+  {
+   "id": "keeptruckin-impact",
+   "index": 97,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "MOTIVE / KEEPTRUCKIN",
+   "title": "Impact & Learnings",
+   "keywords": [
+    "keeptruckin",
+    "impact",
+    "motive",
+    "learnings"
+   ],
+   "narration": "MOTIVE / KEEPTRUCKIN. Impact & Learnings. We designed a clean, user-centric interface where developers can navigate documentation, manage multiple applications, and monitor real-time usage. By reducing friction, this platform optimizes productivity and nurtures a thriving community of creative solutions. This project reinforced the importance of deeply understanding the developer mindset—emphasizing documentation clarity, flexible sandbox environments, and streamlined workflows. Moving forward, I continue to challenge myself and others: How can we reduce onboarding to mere minutes while ensuring continuous developer delight?"
+  },
+  {
+   "index": 98,
+   "layoutId": "blank",
+   "blank": true,
+   "intro": null,
+   "title": null,
+   "keywords": [],
+   "narration": ""
+  },
+  {
+   "id": "contact",
+   "index": 99,
+   "layoutId": "contact-layout",
+   "blank": false,
+   "intro": "Contact",
+   "title": "hello@tashfeen.me",
+   "keywords": [
+    "contact",
+    "hello",
+    "tashfeen"
+   ],
+   "narration": "Contact. hello@tashfeen.me. Feel free to write a sticky note and I'll get it. Links: hello@tashfeen.me, LinkedIn, X"
+  },
+  {
+   "id": "bni-intro",
+   "index": 100,
+   "layoutId": "project-intro",
+   "blank": false,
+   "intro": "BNI Shreshtha · Vapi–Valsad · November 2026",
+   "title": "Custom software built around your business",
+   "keywords": [
+    "bni",
+    "intro",
+    "shreshtha",
+    "vapi",
+    "valsad",
+    "november",
+    "2026",
+    "custom",
+    "software",
+    "built",
+    "around",
+    "your",
+    "business"
+   ],
+   "narration": "Hi everyone, I'm Dhruvil Shah from WeExalate Dev Solutions. I build custom software, web apps, internal tools and APIs for ambitious Indian businesses. Let me show you what that looks like in practice."
+  },
+  {
+   "id": "bni-who-i-am",
+   "index": 101,
+   "layoutId": "about-layout-dark",
+   "blank": false,
+   "intro": "Who I am",
+   "title": "Dhruvil Shah",
+   "keywords": [
+    "bni",
+    "who",
+    "am",
+    "dhruvil",
+    "shah"
+   ],
+   "narration": "A quick intro: I'm a custom software and web app developer based in Valsad. Since 2019 I've delivered more than eighty-five projects for businesses that outgrew their spreadsheets and WhatsApp ordering."
+  },
+  {
+   "id": "bni-the-problem",
+   "index": 102,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "The problem",
+   "title": "When a business outgrows its tools",
+   "keywords": [
+    "bni",
+    "problem",
+    "when",
+    "business",
+    "outgrows",
+    "its",
+    "tools"
+   ],
+   "narration": "Here's the problem I solve. Growing businesses run on WhatsApp orders, Excel stock and hand-built reports, with code nobody can maintain. Custom software replaces all of that with one system built around how you actually work."
+  },
+  {
+   "id": "bni-what-i-build",
+   "index": 103,
+   "layoutId": "project-details",
+   "blank": false,
+   "intro": "What I build",
+   "title": "Software that fits how you work",
+   "keywords": [
+    "bni",
+    "what",
+    "build",
+    "software",
+    "fits",
+    "how",
+    "you",
+    "work"
+   ],
+   "narration": "I build three things: web applications like customer portals and SaaS products; internal tools that replace spreadsheets with live dashboards; and API-first systems that connect your tools. The stack is modern and maintainable: Next.js, React, TypeScript, Node.js, PostgreSQL and MongoDB, on AWS and Vercel."
+  },
+  {
+   "id": "bni-proof",
+   "index": 104,
+   "layoutId": "project-details",
+   "blank": false,
+   "intro": "Proof",
+   "title": "Recent builds, open on GitHub",
+   "keywords": [
+    "bni",
+    "proof",
+    "recent",
+    "builds",
+    "open",
+    "github"
+   ],
+   "narration": "Don't take my word for it. My recent builds are open on GitHub. EnerOS is an energy billing console on web and mobile. Window PMS is a production system where orders move through tasks, alerts and a kanban board. And Image Extractor pulls images from any page into one gallery and a ZIP file."
+  },
+  {
+   "id": "bni-how-we-work",
+   "index": 105,
+   "layoutId": "project-details",
+   "blank": false,
+   "intro": "How we work",
+   "title": "From first call to launch, and beyond",
+   "keywords": [
+    "bni",
+    "how",
+    "we",
+    "work",
+    "from",
+    "first",
+    "call",
+    "launch",
+    "beyond"
+   ],
+   "narration": "How do we work? It starts with a one-to-two-hour discovery call. Within two or three days you get strategy, timeline and clear pricing. Design and build runs three to eight weeks with weekly check-ins, then a week of QA and launch, and ongoing support after that. Everything is quoted upfront."
+  },
+  {
+   "id": "bni-how-it-works",
+   "index": 106,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "How custom software works",
+   "title": "Your workflow, built into one system",
+   "keywords": [
+    "bni",
+    "how",
+    "works",
+    "custom",
+    "software",
+    "your",
+    "workflow",
+    "built",
+    "into",
+    "one",
+    "system"
+   ],
+   "narration": "Custom software works in three steps. First we map how your business actually runs. Then we design it with you, and you approve every screen before any build begins. Then we build and hand over: weekly check-ins, device testing, and clean code your next developer can follow."
+  },
+  {
+   "id": "bni-custom-vs-shelf",
+   "index": 107,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "Custom vs ready-made",
+   "title": "Software that adapts to you, not the other way round",
+   "keywords": [
+    "bni",
+    "custom",
+    "vs",
+    "shelf",
+    "ready",
+    "made",
+    "software",
+    "adapts",
+    "you",
+    "not",
+    "other",
+    "way",
+    "round"
+   ],
+   "narration": "Compare ready-made software with custom. Off the shelf, you adapt to its process, you pay for features you never use, you hit limits as you grow, and your data sits on someone else's platform. Built for you, it's the opposite: built around your process, only the features you need, and your code and data stay under your control."
+  },
+  {
+   "id": "bni-one-order",
+   "index": 108,
+   "layoutId": "project-details",
+   "blank": false,
+   "intro": "One order, end to end",
+   "title": "What changes when everything is in one place",
+   "keywords": [
+    "bni",
+    "one",
+    "order",
+    "end",
+    "what",
+    "changes",
+    "when",
+    "everything",
+    "place"
+   ],
+   "narration": "Here is one order, end to end. The order arrives from a form, an app or your team. Details are saved once, with no retyping. The team is updated automatically: stock adjusts, and tasks and alerts reach the right people. And the owner watches it all on a live dashboard, instead of waiting for a report. Before: WhatsApp orders, Excel stock, manual reports. After: one system, one live view of the business."
+  },
+  {
+   "id": "bni-ai-consultation",
+   "index": 109,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "AI consultation",
+   "title": "Where can AI genuinely help your business?",
+   "keywords": [
+    "bni",
+    "ai",
+    "consultation",
+    "where",
+    "can",
+    "genuinely",
+    "help",
+    "your",
+    "business"
+   ],
+   "narration": "I also offer AI consultations. Before you spend on any AI tool, we review how work actually flows through your team. I recommend where AI genuinely helps, and where it does not. And we run one small, focused pilot before you invest further."
+  },
+  {
+   "id": "bni-where-ai-helps",
+   "index": 110,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "Where AI helps",
+   "title": "Practical uses for everyday business work",
+   "keywords": [
+    "bni",
+    "where",
+    "ai",
+    "helps",
+    "practical",
+    "uses",
+    "everyday",
+    "business",
+    "work"
+   ],
+   "narration": "Where does AI actually help? Automation: drafting quotes, invoices and replies from your own data. Insight: spotting patterns in sales, stock and orders. Support: answering common questions quickly, with a person in the loop. And knowledge: finding answers across manuals, policies and past orders in seconds."
+  },
+  {
+   "id": "bni-ai-process",
+   "index": 111,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "How an AI consultation works",
+   "title": "From first conversation to a small pilot",
+   "keywords": [
+    "bni",
+    "ai",
+    "process",
+    "how",
+    "consultation",
+    "works",
+    "from",
+    "first",
+    "conversation",
+    "small",
+    "pilot"
+   ],
+   "narration": "An AI consultation runs in four steps: understand your workflow, identify the opportunities, plan the roadmap with priorities and costs, then run a measured pilot. And honest advice first: if AI is not the right answer, I will say so."
+  },
+  {
+   "id": "bni-recent-project",
+   "index": 112,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "A recent project",
+   "title": "One real problem, solved",
+   "keywords": [
+    "bni",
+    "recent",
+    "project",
+    "one",
+    "real",
+    "problem",
+    "solved"
+   ],
+   "narration": "I could walk you through a recent project end to end: the problem the business was stuck with, the build in one sentence, and the result for the owner. Ask me about it. I love this part."
+  },
+  {
+   "id": "bni-my-ask",
+   "index": 113,
+   "layoutId": "project-content",
+   "blank": false,
+   "intro": "My ask this week",
+   "title": "Who do you know who...",
+   "keywords": [
+    "bni",
+    "ask",
+    "week",
+    "who",
+    "you",
+    "know"
+   ],
+   "narration": "My ask this week: who do you know who runs orders, stock or staff on Excel and WhatsApp? Or software built by a developer who left, with no one able to maintain it? Or a startup that needs its first product built on a solid structure? An introduction would mean a lot."
+  },
+  {
+   "id": "bni-thanks",
+   "index": 114,
+   "layoutId": "contact-layout",
+   "blank": false,
+   "intro": "Thank you, BNI Shreshtha",
+   "title": "Questions?",
+   "keywords": [
+    "bni",
+    "thanks",
+    "thank",
+    "you",
+    "shreshtha",
+    "questions"
+   ],
+   "narration": "Thank you, BNI Shreshtha! I'm Dhruvil Shah from WeExalate Dev Solutions. Call me on nine seven two five seven nine eight three one six, or visit weexalate dot com. The first call is free, so ask me anything about custom software and web apps."
+  }
+ ]
+}
