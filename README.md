@@ -41,7 +41,34 @@ for them, so in-app navigation behaves exactly like production.
 Any plain static file server also works (the pages are fully prerendered); without
 RSC support Next.js simply falls back to hard navigations between routes.
 
-## Deploy
+## AI Presenter (voice control + narration) — no API key needed
+
+`site/ai-presenter.js` adds a working AI Presenter to the deck:
+
+- **Voice commands** (Web Speech API — Chrome/Edge, no key, no backend): click the
+  mic FAB (bottom-right) or the site's own **AI Presenter** button, then say
+  - “go to proof” / “take me to copilot” / “go to when a business outgrows its tools”
+  - “next” / “previous”
+  - “read this slide” — narrates the slide aloud (speechSynthesis)
+  - “present everything” — full guided tour: navigates + narrates every slide
+  - “stop”
+- **Your slides**: the 15 WeExalate BNI slides (from `bni.pdf`) are appended to the
+  deck's registry (`tools/add-bni-slides.js`) with narration scripts, reachable by
+  voice alongside the original slides.
+- **Typed fallback**: the ⌨ button accepts the same commands as text (Firefox/Safari,
+  or when the mic is blocked).
+- **Optional AI understanding**: gear icon → paste an OpenAI API key (kept in this
+  browser only) and commands are parsed by `gpt-4o-mini` for robust intent matching.
+  Without a key, built-in fuzzy matching handles everything.
+- The deck is driven through its own `voiceNavigate` CustomEvent contract — no
+  original code was forked. The original "AI Presenter" button (which required a
+  `/api/voice` backend + OpenAI Realtime) is rerouted into this client-side
+  presenter, since a static mirror has no backend.
+
+Regenerate the presenter's slide index after any deck-data change:
+`node tools/build-presenter-data.js`.
+
+
 
 The `site/` directory is a standard static bundle — deploy it to any static host
 (Cloudflare Pages, Netlify, S3, nginx). Set the publish directory to `site/`.
