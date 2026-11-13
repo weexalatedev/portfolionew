@@ -1,0 +1,86 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /snotes
+Disallow: /snotes/
+Disallow: /_next/
+
+User-Agent: Googlebot
+Allow: /
+Disallow: /api/
+Disallow: /snotes
+Disallow: /snotes/
+Disallow: /_next/
+
+User-Agent: Bingbot
+Allow: /
+Disallow: /api/
+Disallow: /snotes
+Disallow: /snotes/
+Disallow: /_next/
+
+User-Agent: GPTBot
+Allow: /
+Disallow: /api/
+Disallow: /snotes
+Disallow: /snotes/
+Disallow: /_next/
+
+User-Agent: OAI-SearchBot
+Allow: /
+Disallow: /api/
+Disallow: /snotes
+Disallow: /snotes/
+Disallow: /_next/
+
+User-Agent: ChatGPT-User
+Allow: /
+Disallow: /api/
+Disallow: /snotes
+Disallow: /snotes/
+Disallow: /_next/
+
+User-Agent: ClaudeBot
+Allow: /
+Disallow: /api/
+Disallow: /snotes
+Disallow: /snotes/
+Disallow: /_next/
+
+User-Agent: Claude-SearchBot
+Allow: /
+Disallow: /api/
+Disallow: /snotes
+Disallow: /snotes/
+Disallow: /_next/
+
+User-Agent: Claude-User
+Allow: /
+Disallow: /api/
+Disallow: /snotes
+Disallow: /snotes/
+Disallow: /_next/
+
+User-Agent: PerplexityBot
+Allow: /
+Disallow: /api/
+Disallow: /snotes
+Disallow: /snotes/
+Disallow: /_next/
+
+User-Agent: Perplexity-User
+Allow: /
+Disallow: /api/
+Disallow: /snotes
+Disallow: /snotes/
+Disallow: /_next/
+
+User-Agent: Google-Extended
+Allow: /
+Disallow: /api/
+Disallow: /snotes
+Disallow: /snotes/
+Disallow: /_next/
+
+Host: https://tashfeen.me
+Sitemap: https://tashfeen.me/sitemap.xml
