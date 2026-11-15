@@ -110,7 +110,7 @@
 
     ui.inputWrap = el('div', 'ap-input');
     ui.text = el('input');
-    ui.text.placeholder = 'Type a command — "go to pricing", "next"…';
+    ui.text.placeholder = 'Type a command — "go to results", "next"…';
     ui.text.setAttribute('aria-label', 'Presenter command');
     ui.text.addEventListener('keydown', function (e) {
       if (e.key === 'Enter' && ui.text.value.trim()) { handleCommand(ui.text.value); ui.text.value = ''; }
@@ -299,7 +299,7 @@
       : Promise.resolve(localParse(text));
 
     Promise.resolve(resolve).then(function (cmd) {
-      if (!cmd) { status('I didn\u2019t catch a slide for that. Try “go to proof” or “next”.', 4200); return; }
+      if (!cmd) { status('I didn\u2019t catch a slide for that. Try “go to eneros” or “next”.', 4200); return; }
       if (cmd.action === 'navigate' && cmd.slide) {
         var s = byId[cmd.slide] || bestMatch(cmd.slide);
         if (s) { stopSpeaking(); navigateTo(s.id, s.title || s.id); }
@@ -388,7 +388,7 @@
           ui.inputWrap.classList.add('ap-show');
           ui.text.focus();
         } else if (e.error === 'no-speech') {
-          status('Listening… (say “go to pricing”)', 0);
+          status('Listening… (say “go to results”)', 0);
         }
       };
       recognition.onend = function () {
@@ -398,7 +398,7 @@
       listening = true;
       ui.fab.classList.add('ap-on');
       recognition.start();
-      status('Listening… try “go to my ask”, “next”, or “present everything”.', 0);
+      status('Listening… try “go to eneros”, “next”, or “present everything”.', 0);
     } catch (e) {
       status('Could not start the microphone (' + String((e && e.message) || e) + '). Type your command instead.', 6000);
       ui.inputWrap.classList.add('ap-show');

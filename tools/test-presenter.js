@@ -59,16 +59,16 @@ const { chromium } = require('/workspace/node_modules/playwright');
   ).then(() => true).catch(() => false);
 
   // 1. voice navigation to a BNI slide by fuzzy name
-  await run('go to proof');
-  results.navProof = await waitHash('bni-proof');
+  await run('go to eneros');
+  results.navEneros = await waitHash('weex-eneros');
 
   // 2. next
   await run('next');
-  results.navNext = await waitHash('bni-how-we-work');
+  results.navNext = await waitHash('weex-eneros-shot');
 
   // 3. previous
   await run('previous');
-  results.navPrev = await waitHash('bni-proof');
+  results.navPrev = await waitHash('weex-eneros');
 
   // 4. read/narrate current slide
   const spokenBefore = await page.evaluate(() => window.__spoken.length);
@@ -77,12 +77,12 @@ const { chromium } = require('/workspace/node_modules/playwright');
   results.narration = await page.evaluate((n) => window.__spoken.slice(n), spokenBefore);
 
   // 5. navigate to an original (Tashfeen) project slide
-  await run('take me to copilot');
-  results.navCopilot = await waitHash('copilot-cover') || (await waitHash('copilot-intro', 4000));
+  await run('take me to propdesk');
+  results.navPropdesk = await waitHash('weex-propdesk');
 
   // 6. tour mode: should advance + narrate multiple slides
-  await run('go to when a business outgrows its tools');
-  results.navProblem = await waitHash('bni-the-problem');
+  await run('go to results');
+  results.navResults = await waitHash('weex-results');
   const beforeTour = await page.evaluate(() => ({ spoken: window.__spoken.length, nav: window.__lastNavEvent && window.__lastNavEvent.slideId }));
   await run('present everything');
   await page.waitForTimeout(3500);
@@ -125,6 +125,12 @@ const { chromium } = require('/workspace/node_modules/playwright');
   await page.waitForTimeout(300);
   results.fallbackShown = await page.evaluate(() => (document.querySelector('.ap-status') || {}).textContent || '');
 
+  results.branding = await page.evaluate(() => ({
+    title: document.title,
+    awwwardsGone: !document.getElementById('awwwards'),
+    visibleTashfeenText: (document.body.innerText || '').includes('Tashfeen Ahmed'),
+    weexalateInHeader: (document.body.innerText || '').includes('WeExalate'),
+  }));
   results.pageErrors = pageErrors;
   results.finalHash = await page.evaluate(() => window.location.hash);
 
