@@ -41,13 +41,38 @@ for them, so in-app navigation behaves exactly like production.
 Any plain static file server also works (the pages are fully prerendered); without
 RSC support Next.js simply falls back to hard navigations between routes.
 
+## The WeExalate deck
+
+The deck's registry is now **100% WeExalate content** (zero Tashfeen slides):
+agency intro, services, results (Vrajesh Textiles 3×/90 days, Dharmatech 6.8% CVR),
+client testimonials, process, a work index, five product builds — **EnerOS** (live),
+**Window PMS**, **Image Extractor**, **PropDesk CRM**, **Product Catalog** — each with
+a full-bleed screenshot, AI consultation offer, and contact.
+
+- Screenshots captured from the live properties: `site/img/weexalate/`
+  (weexalate.com + `bill-neon-two.vercel.app` live; GitHub repo pages for the
+  auth-gated deployments — Window PMS signs in via Clerk, the others sit behind
+  Vercel deployment protection).
+- `tools/build-weexalate-deck.js` — installs the deck. The original SSR-rendered
+  slide array is preserved as a snapshot (`globalThis.__ssrSlides`) that the
+  reader-layer article feed keeps consuming, so React hydration stays clean while
+  the canvas serves the new content.
+- `tools/apply-branding.js` + `ga-init.js` — title/meta/OG/favicon now WeExalate,
+  the third-party awards ribbon is removed, and the visible header name is swapped
+  at runtime (the SSR flight payload still carries the old strings — it is part of
+  hydration data and must not be edited).
+- `/process` and `/writing` still hold the source site's long-form pages; remove
+  those routes separately if wanted.
+
+
+
 ## AI Presenter (voice control + narration) — no API key needed
 
 `site/ai-presenter.js` adds a working AI Presenter to the deck:
 
 - **Voice commands** (Web Speech API — Chrome/Edge, no key, no backend): click the
   mic FAB (bottom-right) or the site's own **AI Presenter** button, then say
-  - “go to proof” / “take me to copilot” / “go to when a business outgrows its tools”
+  - “go to eneros” / “take me to propdesk” / “go to results”
   - “next” / “previous”
   - “read this slide” — narrates the slide aloud (speechSynthesis)
   - “present everything” — full guided tour: navigates + narrates every slide
